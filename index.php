@@ -1,2 +1,2 @@
 <?php
-    echo 'Olá Betão programador';
+    echo 'Hello world! That's a beautiful World! :)';
